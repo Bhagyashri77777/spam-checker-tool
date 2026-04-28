@@ -1,15 +1,14 @@
-# 🛡️ SpamShield: AI Text Analyzer 🛡️ 
+# 🛡️ SpamShield: AI Text Analyzer
 
-Welcome to our custom utility tool! 🚀 
-This is a smart Python-based tool built to detect spam and scam messages using keyword analysis. 
+A smart, Python-based utility tool built to detect spam and scam messages using intelligent keyword analysis and text processing.
 
-**Built for the Culling Games 2026!** 🏆
+### 🚀 Key Features
+* **Threat Detection:** Automatically analyzes text to flag suspicious messages and potential scams.
+* **Keyword Analysis:** Utilizes core string-matching logic to identify malicious patterns in raw data.
+* **AI Foundations:** Serves as a foundational script demonstrating early Natural Language Processing (NLP) concepts.
 
-### ⚔️ Team: The Neural Knights ⚔️
-* 👑 **Bhagyashri** (Captain & Lead AI Developer / Code_WithShri07) 👩‍💻
-* 🛡️ **Anushka** (Logic Architect)
-* 🛡️ **Payal** (QA & Tester)
-* 🛡️ **Prashant** (Data Researcher)
-* 🛡️ **Sneha** (Data Researcher)
+### 🛠️ Tech Stack
+* Python
 
-Stay Safe! ✨
+---
+**Developed by:** Bhagyashri Yogesh Gawali
